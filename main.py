@@ -1,6 +1,6 @@
 import numpy as np
 import pygame as pg
-
+#
 
 fps = pg.time.Clock()
 screen = pg.display.set_mode((510, 510))
